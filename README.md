@@ -1,4 +1,4 @@
-### Olá, eu sou a Julia! 
+### Olá, eu sou a Julia! 😁
 
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/feed/?trk=404_page)
